@@ -1,0 +1,6 @@
+- Build an image recognition model
+- Install necessary dependencies (cifar-10)
+- Go over how to display images
+- Build training and testing data sets
+- Build the training model
+- Train and test the model
